@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ncrasto
+- 👋 Hi, I’m Neil Crasto
 - 👀 I’m interested in Data Science, Business Intelligence and Analysis
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on new technology and solve business problems
