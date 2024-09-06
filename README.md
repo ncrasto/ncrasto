@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Neil Crasto
-- 👀 I’m interested in Data Science, Business Intelligence and Analysis
-- 🌱 I’m currently learning Data Science
+- 👀 I’m interested in Data Science, Business Intelligence and Data Analysis
 - 💞️ I’m looking to collaborate on new technology and solve business problems
 - 📫 How to reach me crasto.neil@gmail.com
 
